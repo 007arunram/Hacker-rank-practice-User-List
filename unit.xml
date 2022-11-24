@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<testsuite name="HeadlessChrome 78.0.3904 (Linux 0.0.0)" package="unit" timestamp="2022-11-17T12:17:54" id="0" hostname="workspace2ag1lm4e4simwyrz.ws-6f9dc64f5c-ntm66" tests="6" errors="0" failures="0" time="0.218">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3904.108 Safari/537.36"/>
+  </properties>
+  <testcase name="AppComponent Initial UI is rendered as expected" time="0.083" classname=".AppComponent"/>
+  <testcase name="AppComponent Clicking on Song type should render time input" time="0.026" classname=".AppComponent"/>
+  <testcase name="AppComponent Clicking on type Song and Add button should clear the input fields" time="0.034" classname=".AppComponent"/>
+  <testcase name="AppComponent Perform a series of operations including delete" time="0.028" classname=".AppComponent"/>
+  <testcase name="AppComponent Clicking on type Song and Add button should add the item to the Song list" time="0.017" classname=".AppComponent"/>
+  <testcase name="AppComponent Clicking on type Book and Add button should add the item to the Book list" time="0.03" classname=".AppComponent"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
